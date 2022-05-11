@@ -1,0 +1,102 @@
+header {
+    background: url(../img/header-bg.jpg)center/cover;
+    overflow: hidden;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.Roboto {
+    font-family: Roboto;
+}
+
+.bgo-80 {
+    background-color: #fff;
+    opacity: 80%;
+}
+
+.mt-20 {
+    margin-top: 17%;
+}
+
+.vh-50 {
+    height: 50vh;
+}
+
+.doctor-bg {
+    background: #6bc1f1 url(../img/doctors.png) center/cover;
+}
+
+.div300 {
+    height: 300px;
+}
+
+.div250 {
+    height: 200px;
+}
+
+.w33 {
+    width: 33%;
+}
+
+.bg-goy {
+    background-color: #6bc1f1;
+}
+
+.bg-children {
+    background: url(../img/children.jpg)center/cover;
+}
+
+.sekil-bg {
+    background-color: #f1f1f1;
+}
+
+.sekil-bg-1 {
+    background: url(../img/sekil-bg-1.png) center/cover;
+}
+
+.sekil-bg-2 {
+    background: url(../img/sekil-bg-2.png)center/cover;
+}
+
+.sekil-bg-3 {
+    background: url(../img/sekil-bg-3.png)center/cover;
+}
+
+.sekil-bg-4 {
+    background: url(../img/sekil-bg-4.png)center/cover;
+}
+
+.sekil-bg-5 {
+    background: url(../img/sekil-bg-5.png)center/cover;
+}
+
+.sekil-bg-6 {
+    background: url(../img/sekil-bg-6.png)center/cover;
+}
+
+.carousel-indicators button,
+.carousel-indicators button.active {
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 20px;
+    border-radius: 50%;
+}
+
+.carousel-indicators img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+footer {
+    overflow: hidden;
+}
+
+.footer-bg {
+    background-color: #072035;
+}
